@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project explores the export feasibility of five agro commodities (Rice, Maize, Jute, Spices, Onion) targeting Middle Eastern markets. It includes detailed analyses of product-market fit, pricing, potential buyers, trade documentation, and a competitor analysis for rice exporting countries.
+This project explores the export feasibility of five agro commodities (Rice, Onions, Jute) targeting Middle Eastern markets. It includes detailed analyses of product-market fit, pricing, potential buyers, trade documentation, and a competitor analysis for rice exporting countries.
 
 ## Objectives
 
